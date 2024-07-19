@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: "Organisation dev"
   datasource:
     url: jdbc:postgresql://localhost:5432/dvdrental
     driver-class-name: org.postgresql.Driver
