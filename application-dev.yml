@@ -20,9 +20,3 @@ server:
   servlet:
     context-path: /apidev
   port: 8082
-eureka:
-  client:
-    fetch-registry: true
-    register-with-eureka: true
-    service-url:
-      defaultZone: http://localhost:8085/eureka
